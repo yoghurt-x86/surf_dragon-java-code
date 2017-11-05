@@ -1,0 +1,8687 @@
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 78 178"
+    "origin" "-10240 5632 13312"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 253 78 178"
+    "origin" "-9728 5120 13264"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 251 79 179"
+    "origin" "-10240 4608 13216"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 249 79 179"
+    "origin" "-10752 4096 13168"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 247 80 180"
+    "origin" "-11264 3584 13120"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 245 81 180"
+    "origin" "-11776 4096 13072"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 243 81 181"
+    "origin" "-12288 4608 13024"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 241 82 181"
+    "origin" "-12800 4096 12976"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 240 82 182"
+    "origin" "-13312 3584 12928"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 238 83 182"
+    "origin" "-13824 4096 12880"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 236 84 183"
+    "origin" "-13312 4608 12832"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 234 84 183"
+    "origin" "-12800 5120 12784"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 232 85 184"
+    "origin" "-13312 5632 12736"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 230 85 185"
+    "origin" "-13824 6144 12688"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 228 86 185"
+    "origin" "-14336 6656 12640"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 227 87 186"
+    "origin" "-14848 6144 12592"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 225 87 186"
+    "origin" "-15360 5632 12544"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 223 88 187"
+    "origin" "-15872 6144 12496"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 221 88 187"
+    "origin" "-15360 6656 12448"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 219 89 188"
+    "origin" "-14848 7168 12400"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 217 90 188"
+    "origin" "-14336 7680 12352"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 215 90 189"
+    "origin" "-13824 7168 12304"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 214 91 189"
+    "origin" "-13312 6656 12256"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 212 91 190"
+    "origin" "-12800 7168 12208"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 210 92 190"
+    "origin" "-13312 7680 12160"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 208 93 191"
+    "origin" "-13824 8192 12112"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 206 93 192"
+    "origin" "-13312 8704 12064"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 204 94 192"
+    "origin" "-12800 9216 12016"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 202 94 193"
+    "origin" "-13312 9728 11968"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 200 95 193"
+    "origin" "-13824 10240 11920"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 199 96 194"
+    "origin" "-14336 10752 11872"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 197 96 194"
+    "origin" "-14848 10240 11824"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 195 97 195"
+    "origin" "-15360 9728 11776"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 193 97 195"
+    "origin" "-15872 10240 11728"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 191 98 196"
+    "origin" "-15360 10752 11680"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 189 99 196"
+    "origin" "-14848 11264 11632"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 187 99 197"
+    "origin" "-14336 11776 11584"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 186 100 197"
+    "origin" "-13824 11264 11536"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 184 100 198"
+    "origin" "-13312 10752 11488"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 182 101 199"
+    "origin" "-12800 11264 11440"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 180 102 199"
+    "origin" "-12288 11776 11392"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 178 102 200"
+    "origin" "-11776 11264 11344"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 176 103 200"
+    "origin" "-12288 10752 11296"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 174 103 201"
+    "origin" "-12800 10240 11248"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 173 104 201"
+    "origin" "-12288 9728 11200"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 171 105 202"
+    "origin" "-11776 9216 11152"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 169 105 202"
+    "origin" "-11264 8704 11104"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 167 106 203"
+    "origin" "-10752 9216 11056"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 165 106 203"
+    "origin" "-11264 9728 11008"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 163 107 204"
+    "origin" "-11776 10240 10960"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 161 108 205"
+    "origin" "-11264 10752 10912"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 159 108 205"
+    "origin" "-10752 11264 10864"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 158 109 206"
+    "origin" "-10240 11776 10816"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 156 109 206"
+    "origin" "-9728 11264 10768"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 154 110 207"
+    "origin" "-9216 10752 10720"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 152 111 207"
+    "origin" "-8704 11264 10672"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 150 111 208"
+    "origin" "-9216 11776 10624"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 148 112 208"
+    "origin" "-9728 12288 10576"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 146 112 209"
+    "origin" "-9216 12800 10528"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 145 113 209"
+    "origin" "-8704 13312 10480"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 143 114 210"
+    "origin" "-9216 13824 10432"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 141 114 210"
+    "origin" "-9728 14336 10384"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 139 115 211"
+    "origin" "-10240 14848 10336"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 137 115 212"
+    "origin" "-10752 14336 10288"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 135 116 212"
+    "origin" "-11264 13824 10240"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 133 117 213"
+    "origin" "-11776 14336 10192"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 132 117 213"
+    "origin" "-11264 14848 10144"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 130 118 214"
+    "origin" "-10752 15360 10096"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 128 118 214"
+    "origin" "-10240 15872 10048"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 126 119 215"
+    "origin" "-9728 15360 10000"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 124 120 215"
+    "origin" "-9216 14848 9952"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 122 120 216"
+    "origin" "-8704 15360 9904"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 120 121 216"
+    "origin" "-8192 15872 9856"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 119 122 217"
+    "origin" "-7680 15360 9808"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 117 122 217"
+    "origin" "-8192 14848 9760"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 115 123 218"
+    "origin" "-8704 14336 9712"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 113 123 219"
+    "origin" "-8192 13824 9664"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 111 124 219"
+    "origin" "-7680 13312 9616"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 109 125 220"
+    "origin" "-7168 12800 9568"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 107 125 220"
+    "origin" "-6656 13312 9520"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 105 126 221"
+    "origin" "-6144 13824 9472"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 104 126 221"
+    "origin" "-5632 13312 9424"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 102 127 222"
+    "origin" "-6144 12800 9376"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 100 128 222"
+    "origin" "-6656 12288 9328"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 98 128 223"
+    "origin" "-7168 11776 9280"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 96 129 223"
+    "origin" "-7680 12288 9232"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 94 129 224"
+    "origin" "-8192 12800 9184"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 92 130 224"
+    "origin" "-8704 12288 9136"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 91 131 225"
+    "origin" "-8192 11776 9088"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 89 131 226"
+    "origin" "-7680 11264 9040"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 87 132 226"
+    "origin" "-8192 10752 8992"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 85 132 227"
+    "origin" "-8704 10240 8944"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 83 133 227"
+    "origin" "-8192 9728 8896"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 81 134 228"
+    "origin" "-7680 9216 8848"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 79 134 228"
+    "origin" "-7168 8704 8800"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 78 135 229"
+    "origin" "-6656 9216 8752"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 76 135 229"
+    "origin" "-7168 9728 8704"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 74 136 230"
+    "origin" "-7680 10240 8656"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 72 137 230"
+    "origin" "-7168 10752 8608"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 70 137 231"
+    "origin" "-6656 11264 8560"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 68 138 232"
+    "origin" "-6144 11776 8512"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 66 138 232"
+    "origin" "-5632 11264 8464"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 64 139 233"
+    "origin" "-5120 10752 8416"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 63 140 233"
+    "origin" "-4608 11264 8368"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 61 140 234"
+    "origin" "-4096 11776 8320"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 59 141 234"
+    "origin" "-3584 11264 8272"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 57 141 235"
+    "origin" "-4096 10752 8224"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 55 142 235"
+    "origin" "-4608 10240 8176"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 53 143 236"
+    "origin" "-4096 9728 8128"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 51 143 236"
+    "origin" "-3584 9216 8080"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 50 144 237"
+    "origin" "-3072 8704 8032"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 48 144 237"
+    "origin" "-2560 9216 7984"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 46 145 238"
+    "origin" "-3072 9728 7936"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 44 146 239"
+    "origin" "-3584 10240 7888"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 42 146 239"
+    "origin" "-3072 10752 7840"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 40 147 240"
+    "origin" "-2560 11264 7792"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 38 147 240"
+    "origin" "-2048 11776 7744"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 37 148 241"
+    "origin" "-1536 11264 7696"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 35 149 241"
+    "origin" "-1024 10752 7648"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 33 149 242"
+    "origin" "-512 11264 7600"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 31 150 242"
+    "origin" "-1024 11776 7552"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 29 150 243"
+    "origin" "-1536 12288 7504"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 27 151 243"
+    "origin" "-1024 12800 7456"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 25 152 244"
+    "origin" "-512 13312 7408"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 23 152 244"
+    "origin" "-1024 13824 7360"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 22 153 245"
+    "origin" "-1536 14336 7312"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 20 153 246"
+    "origin" "-2048 14848 7264"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 18 154 246"
+    "origin" "-2560 14336 7216"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 17 155 246"
+    "origin" "-3072 13824 7168"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 17 155 245"
+    "origin" "-3584 14336 7120"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 17 156 245"
+    "origin" "-3072 14848 7072"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 18 157 244"
+    "origin" "-2560 15360 7024"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 18 158 243"
+    "origin" "-2048 15872 6976"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 18 159 242"
+    "origin" "-1536 15360 6928"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 19 159 241"
+    "origin" "-1024 14848 6880"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 19 160 241"
+    "origin" "-512 15360 6832"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 20 161 240"
+    "origin" "0 15872 6784"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 20 162 239"
+    "origin" "512 15360 6736"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 20 163 238"
+    "origin" "0 14848 6688"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 21 163 237"
+    "origin" "-512 14336 6640"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 21 164 237"
+    "origin" "0 13824 6592"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 21 165 236"
+    "origin" "512 13312 6544"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 22 166 235"
+    "origin" "1024 12800 6496"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 22 166 234"
+    "origin" "1536 13312 6448"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 23 167 233"
+    "origin" "2048 13824 6400"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 23 168 232"
+    "origin" "2560 13312 6352"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 23 169 232"
+    "origin" "2048 12800 6304"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 24 170 231"
+    "origin" "1536 12288 6256"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 24 170 230"
+    "origin" "1024 11776 6208"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 24 171 229"
+    "origin" "512 12288 6160"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 25 172 228"
+    "origin" "0 12800 6112"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 25 173 228"
+    "origin" "-512 12288 6064"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 26 173 227"
+    "origin" "0 11776 6016"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 26 174 226"
+    "origin" "512 11264 5968"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 26 175 225"
+    "origin" "0 10752 5920"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 27 176 224"
+    "origin" "-512 10240 5872"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 27 177 224"
+    "origin" "0 9728 5824"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 27 177 223"
+    "origin" "512 9216 5776"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 28 178 222"
+    "origin" "1024 8704 5728"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 28 179 221"
+    "origin" "1536 9216 5680"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 29 180 220"
+    "origin" "2048 9728 5632"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 29 181 219"
+    "origin" "2560 9216 5584"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 29 181 219"
+    "origin" "2048 8704 5536"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 30 182 218"
+    "origin" "1536 8192 5488"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 30 183 217"
+    "origin" "1024 7680 5440"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 30 184 216"
+    "origin" "512 8192 5392"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 31 184 215"
+    "origin" "0 8704 5344"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 31 185 215"
+    "origin" "-512 8192 5296"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 32 186 214"
+    "origin" "-1024 7680 5248"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 32 187 213"
+    "origin" "-1536 8192 5200"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 32 188 212"
+    "origin" "-1024 8704 5152"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 33 188 211"
+    "origin" "-512 9216 5104"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 33 189 210"
+    "origin" "-1024 9728 5056"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 34 190 210"
+    "origin" "-1536 10240 5008"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 34 191 209"
+    "origin" "-2048 10752 4960"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 34 191 208"
+    "origin" "-2560 10240 4912"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 35 192 207"
+    "origin" "-2048 9728 4864"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 35 193 206"
+    "origin" "-1536 9216 4816"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 35 194 206"
+    "origin" "-2048 8704 4768"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 36 195 205"
+    "origin" "-2560 8192 4720"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 36 195 204"
+    "origin" "-3072 7680 4672"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 37 196 203"
+    "origin" "-3584 8192 4624"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 37 197 202"
+    "origin" "-4096 8704 4576"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 37 198 202"
+    "origin" "-4608 8192 4528"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 38 199 201"
+    "origin" "-4096 7680 4480"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 38 199 200"
+    "origin" "-3584 7168 4432"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 38 200 199"
+    "origin" "-4096 6656 4384"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 39 201 198"
+    "origin" "-4608 6144 4336"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 39 202 197"
+    "origin" "-4096 5632 4288"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 40 202 197"
+    "origin" "-3584 5120 4240"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 40 203 196"
+    "origin" "-3072 4608 4192"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 40 204 195"
+    "origin" "-2560 5120 4144"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 41 205 194"
+    "origin" "-3072 5632 4096"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 41 206 193"
+    "origin" "-3584 6144 4048"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 41 206 193"
+    "origin" "-3072 6656 4000"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 42 207 192"
+    "origin" "-2560 7168 3952"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 42 208 191"
+    "origin" "-2048 7680 3904"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 43 209 190"
+    "origin" "-1536 7168 3856"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 43 209 189"
+    "origin" "-1024 6656 3808"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 43 210 188"
+    "origin" "-512 7168 3760"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 44 211 188"
+    "origin" "0 7680 3712"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 44 212 187"
+    "origin" "512 7168 3664"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 44 213 186"
+    "origin" "0 6656 3616"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 45 213 185"
+    "origin" "-512 6144 3568"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 45 214 184"
+    "origin" "0 5632 3520"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 46 215 184"
+    "origin" "512 5120 3472"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 46 216 183"
+    "origin" "1024 4608 3424"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 46 217 182"
+    "origin" "1536 5120 3376"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 47 217 181"
+    "origin" "2048 5632 3328"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 47 218 180"
+    "origin" "2560 5120 3280"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 47 219 180"
+    "origin" "2048 4608 3232"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 48 220 179"
+    "origin" "1536 4096 3184"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 48 220 178"
+    "origin" "1024 3584 3136"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 49 221 177"
+    "origin" "512 4096 3088"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 49 222 176"
+    "origin" "0 4608 3040"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 49 223 175"
+    "origin" "-512 4096 2992"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 50 224 175"
+    "origin" "0 3584 2944"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 50 224 174"
+    "origin" "512 3072 2896"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 50 225 173"
+    "origin" "0 2560 2848"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 51 226 172"
+    "origin" "-512 2048 2800"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 51 227 171"
+    "origin" "0 1536 2752"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 52 227 171"
+    "origin" "512 1024 2704"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 52 228 170"
+    "origin" "1024 512 2656"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 52 229 169"
+    "origin" "1536 1024 2608"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 53 230 168"
+    "origin" "1024 1536 2560"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 53 231 167"
+    "origin" "512 2048 2512"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 53 231 167"
+    "origin" "1024 2560 2464"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 54 232 166"
+    "origin" "1536 3072 2416"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 54 233 165"
+    "origin" "2048 3584 2368"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 55 234 164"
+    "origin" "2560 3072 2320"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 55 235 163"
+    "origin" "3072 2560 2272"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 55 235 162"
+    "origin" "3584 3072 2224"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 56 236 162"
+    "origin" "4096 3584 2176"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 56 237 161"
+    "origin" "4608 3072 2128"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 56 238 160"
+    "origin" "4096 2560 2080"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 57 238 159"
+    "origin" "3584 2048 2032"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 57 239 158"
+    "origin" "4096 1536 1984"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 58 240 158"
+    "origin" "4608 1024 1936"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 58 241 157"
+    "origin" "5120 512 1888"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 58 242 156"
+    "origin" "5632 1024 1840"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 59 242 155"
+    "origin" "5120 1536 1792"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 59 243 154"
+    "origin" "4608 2048 1744"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 59 244 153"
+    "origin" "5120 2560 1696"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 60 245 153"
+    "origin" "5632 3072 1648"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 60 245 152"
+    "origin" "6144 3584 1600"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 61 246 151"
+    "origin" "6656 3072 1552"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 61 247 150"
+    "origin" "7168 2560 1504"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 61 248 149"
+    "origin" "7680 3072 1456"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 62 249 149"
+    "origin" "7168 3584 1408"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 62 249 148"
+    "origin" "6656 4096 1360"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 62 250 147"
+    "origin" "7168 4608 1312"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 63 251 146"
+    "origin" "7680 5120 1264"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 63 252 145"
+    "origin" "7168 5632 1216"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 64 253 145"
+    "origin" "6656 6144 1168"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 64 253 144"
+    "origin" "6144 6656 1120"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 64 254 143"
+    "origin" "5632 6144 1072"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 65 254 142"
+    "origin" "5120 5632 1024"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 67 254 142"
+    "origin" "4608 6144 976"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 68 253 141"
+    "origin" "5120 6656 928"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 70 253 141"
+    "origin" "5632 7168 880"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 71 252 140"
+    "origin" "6144 7680 832"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 73 252 140"
+    "origin" "6656 7168 784"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 74 251 139"
+    "origin" "7168 6656 736"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 76 251 139"
+    "origin" "7680 7168 688"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 77 250 138"
+    "origin" "8192 7680 640"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 79 250 138"
+    "origin" "8704 7168 592"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 80 249 137"
+    "origin" "8192 6656 544"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 82 248 137"
+    "origin" "7680 6144 496"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 83 248 136"
+    "origin" "8192 5632 448"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 85 247 136"
+    "origin" "8704 5120 400"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 86 247 135"
+    "origin" "9216 4608 352"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 88 246 135"
+    "origin" "9728 5120 304"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 89 246 134"
+    "origin" "10240 5632 256"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 91 245 134"
+    "origin" "10752 5120 208"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 92 245 134"
+    "origin" "10240 4608 160"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 94 244 133"
+    "origin" "9728 4096 112"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 95 244 133"
+    "origin" "9216 3584 64"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 96 243 132"
+    "origin" "8704 4096 16"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 98 243 132"
+    "origin" "8192 4608 -32"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 99 242 131"
+    "origin" "7680 4096 -80"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 101 242 131"
+    "origin" "8192 3584 -128"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 102 241 130"
+    "origin" "8704 3072 -176"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 104 241 130"
+    "origin" "8192 2560 -224"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 105 240 129"
+    "origin" "7680 2048 -272"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 107 240 129"
+    "origin" "8192 1536 -320"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 108 239 128"
+    "origin" "8704 1024 -368"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 110 239 128"
+    "origin" "9216 512 -416"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 111 238 127"
+    "origin" "9728 1024 -464"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 113 237 127"
+    "origin" "10240 1536 -512"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 114 237 126"
+    "origin" "10752 1024 -560"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 116 236 126"
+    "origin" "10240 512 -608"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 117 236 125"
+    "origin" "9728 0 -656"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 119 235 125"
+    "origin" "9216 -512 -704"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 120 235 124"
+    "origin" "8704 0 -752"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 122 234 124"
+    "origin" "8192 512 -800"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 123 234 123"
+    "origin" "7680 0 -848"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 125 233 123"
+    "origin" "7168 -512 -896"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 126 233 122"
+    "origin" "6656 0 -944"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 128 232 122"
+    "origin" "7168 512 -992"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 129 232 121"
+    "origin" "7680 1024 -1040"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 131 231 121"
+    "origin" "7168 1536 -1088"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 132 231 120"
+    "origin" "6656 2048 -1136"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 134 230 120"
+    "origin" "6144 2560 -1184"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 135 230 119"
+    "origin" "5632 2048 -1232"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 137 229 119"
+    "origin" "6144 1536 -1280"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 138 229 118"
+    "origin" "6656 1024 -1328"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 140 228 118"
+    "origin" "6144 512 -1376"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 141 227 118"
+    "origin" "5632 0 -1424"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 143 227 117"
+    "origin" "5120 -512 -1472"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 144 226 117"
+    "origin" "4608 0 -1520"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 146 226 116"
+    "origin" "4096 512 -1568"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 147 225 116"
+    "origin" "3584 0 -1616"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 149 225 115"
+    "origin" "4096 -512 -1664"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 150 224 115"
+    "origin" "4608 -1024 -1712"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 152 224 114"
+    "origin" "4096 -1536 -1760"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 153 223 114"
+    "origin" "3584 -2048 -1808"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 154 223 113"
+    "origin" "4096 -2560 -1856"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 156 222 113"
+    "origin" "4608 -3072 -1904"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 157 222 112"
+    "origin" "5120 -3584 -1952"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 159 221 112"
+    "origin" "5632 -3072 -2000"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 160 221 111"
+    "origin" "6144 -2560 -2048"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 162 220 111"
+    "origin" "6656 -3072 -2096"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 163 220 110"
+    "origin" "6144 -3584 -2144"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 165 219 110"
+    "origin" "5632 -4096 -2192"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 166 219 109"
+    "origin" "5120 -4608 -2240"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 168 218 109"
+    "origin" "4608 -4096 -2288"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 169 218 108"
+    "origin" "4096 -3584 -2336"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 171 217 108"
+    "origin" "3584 -4096 -2384"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 172 216 107"
+    "origin" "3072 -4608 -2432"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 174 216 107"
+    "origin" "2560 -4096 -2480"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 175 215 106"
+    "origin" "3072 -3584 -2528"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 177 215 106"
+    "origin" "3584 -3072 -2576"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 178 214 105"
+    "origin" "3072 -2560 -2624"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 180 214 105"
+    "origin" "2560 -2048 -2672"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 181 213 104"
+    "origin" "2048 -1536 -2720"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 183 213 104"
+    "origin" "1536 -2048 -2768"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 184 212 103"
+    "origin" "1024 -2560 -2816"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 186 212 103"
+    "origin" "512 -2048 -2864"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 187 211 102"
+    "origin" "1024 -1536 -2912"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 189 211 102"
+    "origin" "1536 -1024 -2960"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 190 210 101"
+    "origin" "2048 -512 -3008"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 192 210 101"
+    "origin" "2560 -1024 -3056"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 193 209 101"
+    "origin" "3072 -1536 -3104"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 195 209 100"
+    "origin" "3584 -1024 -3152"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 196 208 100"
+    "origin" "3072 -512 -3200"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 198 208 99"
+    "origin" "2560 0 -3248"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 199 207 99"
+    "origin" "3072 512 -3296"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 201 207 98"
+    "origin" "3584 1024 -3344"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 202 206 98"
+    "origin" "3072 1536 -3392"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 204 205 97"
+    "origin" "2560 2048 -3440"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 205 205 97"
+    "origin" "2048 2560 -3488"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 207 204 96"
+    "origin" "1536 2048 -3536"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 208 204 96"
+    "origin" "2048 1536 -3584"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 210 203 95"
+    "origin" "2560 1024 -3632"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 211 203 95"
+    "origin" "2048 512 -3680"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 212 202 94"
+    "origin" "1536 0 -3728"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 214 202 94"
+    "origin" "1024 -512 -3776"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 215 201 93"
+    "origin" "512 0 -3824"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 217 201 93"
+    "origin" "0 512 -3872"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 218 200 92"
+    "origin" "-512 0 -3920"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 220 200 92"
+    "origin" "-1024 -512 -3968"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 221 199 91"
+    "origin" "-1536 0 -4016"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 223 199 91"
+    "origin" "-1024 512 -4064"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 224 198 90"
+    "origin" "-512 1024 -4112"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 226 198 90"
+    "origin" "-1024 1536 -4160"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 227 197 89"
+    "origin" "-1536 2048 -4208"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 229 197 89"
+    "origin" "-2048 2560 -4256"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 230 196 88"
+    "origin" "-2560 2048 -4304"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 232 195 88"
+    "origin" "-2048 1536 -4352"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 233 195 87"
+    "origin" "-1536 1024 -4400"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 235 194 87"
+    "origin" "-2048 512 -4448"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 236 194 86"
+    "origin" "-2560 0 -4496"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 238 193 86"
+    "origin" "-3072 -512 -4544"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 239 193 85"
+    "origin" "-3584 0 -4592"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 241 192 85"
+    "origin" "-4096 512 -4640"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 242 192 85"
+    "origin" "-4608 0 -4688"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 244 191 84"
+    "origin" "-4096 -512 -4736"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 245 191 84"
+    "origin" "-3584 -1024 -4784"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 247 190 83"
+    "origin" "-4096 -1536 -4832"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 248 190 83"
+    "origin" "-4608 -2048 -4880"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 250 189 82"
+    "origin" "-4096 -2560 -4928"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 251 189 82"
+    "origin" "-3584 -3072 -4976"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 253 188 81"
+    "origin" "-3072 -3584 -5024"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 254 188 81"
+    "origin" "-2560 -3072 -5072"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 187 81"
+    "origin" "-3072 -2560 -5120"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 186 82"
+    "origin" "-3584 -2048 -5168"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 185 83"
+    "origin" "-3072 -1536 -5216"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 184 83"
+    "origin" "-2560 -1024 -5264"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 183 84"
+    "origin" "-2048 -512 -5312"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 183 85"
+    "origin" "-1536 -1024 -5360"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 182 86"
+    "origin" "-1024 -1536 -5408"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 181 86"
+    "origin" "-512 -1024 -5456"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 180 87"
+    "origin" "0 -512 -5504"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 179 88"
+    "origin" "512 -1024 -5552"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 178 89"
+    "origin" "0 -1536 -5600"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 177 89"
+    "origin" "-512 -2048 -5648"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 177 90"
+    "origin" "0 -2560 -5696"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 176 91"
+    "origin" "512 -3072 -5744"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 175 92"
+    "origin" "1024 -3584 -5792"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 174 92"
+    "origin" "1536 -3072 -5840"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 173 93"
+    "origin" "2048 -2560 -5888"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 172 94"
+    "origin" "2560 -3072 -5936"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 171 95"
+    "origin" "2048 -3584 -5984"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 170 95"
+    "origin" "1536 -4096 -6032"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 170 96"
+    "origin" "1024 -4608 -6080"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 169 97"
+    "origin" "512 -4096 -6128"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 168 98"
+    "origin" "0 -3584 -6176"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 167 99"
+    "origin" "-512 -4096 -6224"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 166 99"
+    "origin" "0 -4608 -6272"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 165 100"
+    "origin" "512 -5120 -6320"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 164 101"
+    "origin" "0 -5632 -6368"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 164 102"
+    "origin" "-512 -6144 -6416"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 163 102"
+    "origin" "0 -6656 -6464"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 162 103"
+    "origin" "512 -7168 -6512"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 161 104"
+    "origin" "1024 -7680 -6560"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 160 105"
+    "origin" "1536 -7168 -6608"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 159 105"
+    "origin" "2048 -6656 -6656"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 158 106"
+    "origin" "2560 -7168 -6704"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 158 107"
+    "origin" "2048 -7680 -6752"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 157 108"
+    "origin" "1536 -8192 -6800"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 156 108"
+    "origin" "1024 -8704 -6848"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 155 109"
+    "origin" "512 -8192 -6896"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 154 110"
+    "origin" "0 -7680 -6944"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 153 111"
+    "origin" "-512 -8192 -6992"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 152 111"
+    "origin" "-1024 -8704 -7040"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 152 112"
+    "origin" "-1536 -8192 -7088"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 151 113"
+    "origin" "-1024 -7680 -7136"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 150 114"
+    "origin" "-512 -7168 -7184"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 149 114"
+    "origin" "-1024 -6656 -7232"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 148 115"
+    "origin" "-1536 -6144 -7280"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 147 116"
+    "origin" "-2048 -5632 -7328"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 146 117"
+    "origin" "-2560 -6144 -7376"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 146 118"
+    "origin" "-2048 -6656 -7424"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 145 118"
+    "origin" "-1536 -7168 -7472"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 144 119"
+    "origin" "-2048 -7680 -7520"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 143 120"
+    "origin" "-2560 -8192 -7568"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 142 121"
+    "origin" "-3072 -8704 -7616"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 141 121"
+    "origin" "-3584 -8192 -7664"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 140 122"
+    "origin" "-4096 -7680 -7712"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 139 123"
+    "origin" "-4608 -8192 -7760"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 139 124"
+    "origin" "-4096 -8704 -7808"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 138 124"
+    "origin" "-3584 -9216 -7856"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 137 125"
+    "origin" "-4096 -9728 -7904"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 136 126"
+    "origin" "-4608 -10240 -7952"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 135 127"
+    "origin" "-4096 -10752 -8000"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 134 127"
+    "origin" "-3584 -11264 -8048"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 133 128"
+    "origin" "-3072 -11776 -8096"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 133 129"
+    "origin" "-2560 -11264 -8144"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 132 130"
+    "origin" "-3072 -10752 -8192"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 131 130"
+    "origin" "-3584 -10240 -8240"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 130 131"
+    "origin" "-3072 -9728 -8288"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 129 132"
+    "origin" "-2560 -9216 -8336"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 128 133"
+    "origin" "-2048 -8704 -8384"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 127 133"
+    "origin" "-1536 -9216 -8432"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 127 134"
+    "origin" "-1024 -9728 -8480"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 126 135"
+    "origin" "-512 -9216 -8528"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 125 136"
+    "origin" "0 -8704 -8576"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 124 136"
+    "origin" "512 -9216 -8624"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 123 137"
+    "origin" "0 -9728 -8672"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 122 138"
+    "origin" "-512 -10240 -8720"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 121 139"
+    "origin" "0 -10752 -8768"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 121 140"
+    "origin" "512 -11264 -8816"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 120 140"
+    "origin" "1024 -11776 -8864"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 119 141"
+    "origin" "1536 -11264 -8912"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 118 142"
+    "origin" "2048 -10752 -8960"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 117 143"
+    "origin" "2560 -11264 -9008"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 116 143"
+    "origin" "2048 -11776 -9056"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 115 144"
+    "origin" "1536 -12288 -9104"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 115 145"
+    "origin" "1024 -12800 -9152"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 114 146"
+    "origin" "512 -12288 -9200"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 113 146"
+    "origin" "0 -11776 -9248"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 112 147"
+    "origin" "-512 -12288 -9296"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 111 148"
+    "origin" "0 -12800 -9344"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 110 149"
+    "origin" "512 -13312 -9392"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 109 149"
+    "origin" "0 -13824 -9440"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 108 150"
+    "origin" "-512 -14336 -9488"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 108 151"
+    "origin" "0 -14848 -9536"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 107 152"
+    "origin" "512 -15360 -9584"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 106 152"
+    "origin" "1024 -15872 -9632"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 105 153"
+    "origin" "1536 -15360 -9680"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 104 154"
+    "origin" "1024 -14848 -9728"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 103 155"
+    "origin" "512 -14336 -9776"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 102 155"
+    "origin" "1024 -13824 -9824"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 102 156"
+    "origin" "1536 -13312 -9872"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 101 157"
+    "origin" "2048 -12800 -9920"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 100 158"
+    "origin" "2560 -13312 -9968"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 99 159"
+    "origin" "3072 -13824 -10016"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 98 159"
+    "origin" "3584 -13312 -10064"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 97 160"
+    "origin" "4096 -12800 -10112"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 96 161"
+    "origin" "4608 -13312 -10160"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 96 162"
+    "origin" "4096 -13824 -10208"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 95 162"
+    "origin" "3584 -14336 -10256"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 94 163"
+    "origin" "4096 -14848 -10304"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 93 164"
+    "origin" "4608 -15360 -10352"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 92 165"
+    "origin" "5120 -15872 -10400"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 91 165"
+    "origin" "5632 -15360 -10448"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 90 166"
+    "origin" "5120 -14848 -10496"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 90 167"
+    "origin" "4608 -14336 -10544"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 89 168"
+    "origin" "5120 -13824 -10592"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 88 168"
+    "origin" "5632 -13312 -10640"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 87 169"
+    "origin" "6144 -12800 -10688"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 180 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 86 170"
+    "origin" "6656 -13312 -10736"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 85 171"
+    "origin" "7168 -13824 -10784"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 84 171"
+    "origin" "7680 -13312 -10832"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 84 172"
+    "origin" "7168 -12800 -10880"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 83 173"
+    "origin" "6656 -12288 -10928"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 -90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 82 174"
+    "origin" "7168 -11776 -10976"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 81 174"
+    "origin" "7680 -11264 -11024"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/right_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 80 175"
+    "origin" "7168 -10752 -11072"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 0 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 79 176"
+    "origin" "6656 -10240 -11120"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
+entity
+{
+    "id" "69"
+    "classname" "func_instance"
+    "angles" "0 90 0"
+    "file" "instances/left_turn.vmf"
+    "fixup_style" "0"
+    "replace01" "$color 255 78 177"
+    "origin" "6144 -9728 -11168"
+    editor
+    {
+        "color" "220 30 220"
+        "visgroupshown" "1"
+        "visgroupautoshown" "1"
+        "logicalpos" "[0 0]"
+    }
+}
